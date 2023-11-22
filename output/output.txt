@@ -1,0 +1,27 @@
+6
+S OR -T OR -Z
+-Q OR -R OR -S OR -Z
+-T OR -Z
+P OR -Q OR R OR -T
+R OR -T
+-Q OR -S
+9
+P OR -Q OR -T OR -Z
+-Q OR R OR -T
+-Q OR -S OR -Z
+P OR -Q OR R OR -S
+-Q OR R OR -S
+-Q OR -R OR -T OR -Z
+-Q OR -T OR -Z
+P OR -Q OR -S OR -T OR -Z
+-Q OR -S OR -T OR -Z
+4
+-Q OR R OR -T OR -Z
+-Q OR S OR -T OR -Z
+P OR -Q OR R OR -T OR -Z
+P OR -Q OR -S OR -Z
+2
+-Q OR R OR -S OR -Z
+P OR -Q OR R OR -S OR -Z
+0
+NO
